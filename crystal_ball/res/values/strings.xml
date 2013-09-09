@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">crystal_ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textview">TextView</string>
+    
+    <string-array name= "android_names">
+    <item>name1</item>
+     <item>name2</item>
+      <item>name3</item>
+    </string-array>
+
+</resources>
